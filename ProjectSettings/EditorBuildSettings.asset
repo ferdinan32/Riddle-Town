@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 055a260cb796d0248899b40b60ef1f9d
+  - enabled: 1
+    path: Assets/Scenes/game_1.unity
+    guid: fd38443528647b44c865e62b7fa5bc79
+  - enabled: 1
+    path: Assets/Scenes/game_2A.unity
+    guid: 3f02d80fa55cec241a1bc6734f79519e
+  - enabled: 1
+    path: Assets/Scenes/game_2B.unity
+    guid: 42f311d854f4a82448a0d1ea91cd32eb
+  - enabled: 1
+    path: Assets/Scenes/game_3.unity
+    guid: 779c4b723e550214ea90ce60c71fd6c8
+  - enabled: 1
+    path: Assets/Models 3D/download/Cartoon Temple Building Kit/Scenes/Example Scene
+      3.unity
+    guid: f172ad190b3c23149ad12effac2486a0
